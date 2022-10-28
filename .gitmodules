@@ -1,0 +1,3 @@
+[submodule "3dparty/tracy"]
+	path = 3dparty/tracy
+	url = https://github.com/wolfpld/tracy.git
